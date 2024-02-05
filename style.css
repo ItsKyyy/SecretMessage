@@ -10,7 +10,7 @@ display: flex;
 justify-content: center; align-items: center; min-height: 100vh; background: whitesmoke; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.gif {
+.img {
 height: 100%;
 width: 100%;
 }
