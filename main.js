@@ -6,8 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Lol, Caught In 4K bro";
-    gif.src =
-    "https://media1.tenor.com/m/bltxA8iPZagAAAAC/caught-you-in-4k-meme.gif"; 
+    gif.src ="https://media1.tenor.com/m/bltxA8iPZagAAAAC/caught-you-in-4k-meme.gif"; 
 });
 
 noBtn.addEventListener("mouseover", () => {
